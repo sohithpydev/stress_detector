@@ -1,6 +1,6 @@
 ### Stress Level Detector
 
-![home](https://user-images.githubusercontent.com/64016811/199025266-69551658-cd50-40ec-a5d1-6ec5e26c5037.png)
+![home](https://github.com/sohithpydev/stress_detector/blob/c2700f801a650ca286a377999f79177162546bbd/images/home.png)
 
 
 
